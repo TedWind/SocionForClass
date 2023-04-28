@@ -3,7 +3,7 @@
 //  Socion
 //
 //  Created by Ted Wind on 1/26/23.
-//  Socion V 0.1
+//  Socion Version 0.1
 
 import SwiftUI
 import FirebaseCore
